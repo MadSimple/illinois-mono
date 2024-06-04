@@ -3,6 +3,9 @@ Early release of a monospace font based on [Lexend](https://lexend.com).
 
 ![jesse_mono](https://github.com/MadSimple/jesse-mono/assets/92187165/6771a71a-6e47-4aa8-8f63-c1cd46c8d6a2)
 
+![jesse mono](https://github.com/MadSimple/jesse-mono/assets/92187165/5d9c0e99-c61b-4d68-93a7-77912ea4bbfe)
+
+
 Only Latin characters and common symbols have been altered.
 The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
