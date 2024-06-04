@@ -1,6 +1,10 @@
 # Jesse Mono
 Early release of a monospace font based on [Lexend](https://lexend.com).
 
+![jesse mono dark](https://github.com/MadSimple/jesse-mono/assets/92187165/0d0b95c9-ada6-4761-8041-36922becb20a)
+
+![jesse mono light](https://github.com/MadSimple/jesse-mono/assets/92187165/401ed584-5707-4cfa-8fa6-d793e96f3882)
+
 ![jesse mono](https://github.com/MadSimple/jesse-mono/assets/92187165/b56535ec-812c-4872-8899-4303bd06d75b)
 
 Only Latin characters and common symbols have been altered.
