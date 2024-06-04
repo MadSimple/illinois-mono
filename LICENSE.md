@@ -1,7 +1,9 @@
 Copyright 2024 MadSimple (https://github.com/MadSimple)
 
 This font modifies Lexend and DM Mono, whose copyright statements are below, respectively:
+
 Copyright 2019 The Lexend Project Authors (https://github.com/ThomasJockin/lexend)
+
 Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
