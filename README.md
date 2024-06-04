@@ -2,8 +2,6 @@
 Early release of a monospace font based on [Lexend](https://lexend.com).
 
 
-![jesse mono](https://github.com/MadSimple/jesse-mono/assets/92187165/3742eb2d-b71a-43d5-ba5d-a3f19cb19b50)
-
 ![jesse mono](https://github.com/MadSimple/jesse-mono/assets/92187165/ef8bf5cb-4553-423f-ab00-adacce652b35)
 
 
