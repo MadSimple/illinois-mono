@@ -1,6 +1,6 @@
 Copyright 2019 The Lexend Project Authors (https://github.com/ThomasJockin/lexend)
 Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)
-Monospace alterations copyright 2024 MadSimple (https://github.com/MadSimple)
+Copyright 2024 MadSimple (https://github.com/MadSimple)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
