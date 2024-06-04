@@ -7,7 +7,7 @@ Early release of a monospace font based on [Lexend](https://lexend.com).
 
 ![jesse mono light](https://github.com/MadSimple/jesse-mono/assets/92187165/401ed584-5707-4cfa-8fa6-d793e96f3882)
 
-Only Latin characters and common symbols have been altered.
+Latin characters and common symbols are in the style of Lexend.
 The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
 ## License
