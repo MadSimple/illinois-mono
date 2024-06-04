@@ -16,6 +16,6 @@ The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono
 
 This font modifies Lexend and DM Mono, whose copyright statements are below, respectively:
 
-Copyright 2019 The Lexend Project Authors (https://github.com/ThomasJockin/lexend)
+Copyright 2018 The Readex Pro Project Authors (https://github.com/ThomasJockin/readexpro), with Reserved Font Name “RevReading Lexend”
 
 Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)
