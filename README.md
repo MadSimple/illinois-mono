@@ -10,6 +10,10 @@ Early release of a monospace font based on [Lexend](https://lexend.com).
 Glyphs for Latin characters and common symbols are based on Lexend.
 The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
+Notable changes from Lexend include a double-storey 'a' to distinguish from the 'o', and a '1' without the bottom serif to distinguish it from the lowercase L used by some fonts.
+
+Other changes are due to monospace constraints or personal preference.
+
 ## License
 
 [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL)
