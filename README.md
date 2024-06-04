@@ -1,5 +1,6 @@
 # Jesse Mono
 Early release of a monospace font based on [Lexend](https://lexend.com).
+
 Only Latin characters and common symbols have been altered.
 The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
