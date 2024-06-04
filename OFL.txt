@@ -1,15 +1,14 @@
-Copyright 2024 MadSimple (https://github.com/MadSimple)
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-https://scripts.sil.org/OFL
-
-
 This font modifies Lexend and DM Mono, whose copyright statements are below, respectively:
 
 Copyright 2019 The Lexend Project Authors (https://github.com/ThomasJockin/lexend)
 
 Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)
+
+Copyright 2024 MadSimple (https://github.com/MadSimple)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://scripts.sil.org/OFL
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
