@@ -5,5 +5,5 @@ Early release of a monospace font based on [Lexend](https://lexend.com).
 
 
 Only Latin characters and common symbols have been altered.
-Font uses [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback for obscure characters.
+The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
