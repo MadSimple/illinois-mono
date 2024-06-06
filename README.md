@@ -9,7 +9,7 @@ Early release of a monospace font based on [Lexend](https://lexend.com), a font 
 ![illinois light center](https://github.com/MadSimple/jesse-mono/assets/92187165/155c675c-0f0f-434c-9da6-18079e5dbade)
 
 Glyphs for Latin characters and common symbols are based on Lexend.
-The remaining characters currently use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
+Other characters currently use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
 Notable changes from Lexend include:
 * Double-storey 'a' to distinguish from the 'o'
