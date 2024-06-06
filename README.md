@@ -1,16 +1,21 @@
-# Jesse Mono
-Early release of a monospace font based on [Lexend](https://lexend.com).
+# Illinois Mono
+Early release of a monospace font based on [Lexend](https://lexend.com), a font known for readability.
 
-![dark_](https://github.com/MadSimple/jesse-mono/assets/92187165/5fed6e8a-5a3d-4f08-8a16-9db7163b2345)
+([Here](https://www.youtube.com/watch?v=GIm8arSogvY) is a video explaining how Lexend increases reading speed)
 
-![light](https://github.com/MadSimple/jesse-mono/assets/92187165/511b3ffa-ec37-4696-afb2-0f83cda07fd6)
+
+![illinois dark center](https://github.com/MadSimple/jesse-mono/assets/92187165/229fcdaa-cfc7-4863-8d91-dd7f7e9ad16d)
+
+![illinois light center](https://github.com/MadSimple/jesse-mono/assets/92187165/155c675c-0f0f-434c-9da6-18079e5dbade)
 
 Glyphs for Latin characters and common symbols are based on Lexend.
-The remaining characters use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
+The remaining characters currently use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
 
-Notable changes from Lexend include a double-storey 'a' to distinguish from the 'o', and a '1' without the bottom serif to distinguish it from the lowercase L used by some fonts.
+Notable changes from Lexend include:
+* Double-storey 'a' to distinguish from the 'o'
+* '1' without bottom serif, to distinguish it from the lowercase L used by some fonts
 
-Other changes are due to monospace constraints or personal preference.
+Most other changes are to fit monospace style.
 
 ## License
 
