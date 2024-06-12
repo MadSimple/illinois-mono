@@ -6,3 +6,6 @@
 
 # 1.002
 * Capital 'O' is slightly wider
+
+# 1.003
+* Minor adjustments to regular weight
