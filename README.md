@@ -4,7 +4,9 @@ Early release of a monospace font based on [Lexend](https://lexend.com), a font 
 ([Here](https://www.youtube.com/watch?v=GIm8arSogvY) is a video explaining how Lexend increases reading speed)
 
 
-![image](https://github.com/MadSimple/illinois-mono/assets/92187165/9efe89c7-1f9e-49d0-b265-b301dac70524)
+![image](https://github.com/MadSimple/illinois-mono/assets/92187165/7e9407bd-f841-46d9-846f-3354147fa09b)
+
+*(Medium version shown)*
 
 ![image](https://github.com/MadSimple/illinois-mono/assets/92187165/97b756a4-beea-4697-bb8e-d375d818d6fd)
 
