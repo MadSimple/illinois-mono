@@ -9,3 +9,7 @@
 
 # 1.003
 * Minor adjustments to regular weight
+
+# 1.004
+* New wavier curly brackets
+* Square brackets extend slightly more horizontally
