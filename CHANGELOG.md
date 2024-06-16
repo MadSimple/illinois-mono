@@ -13,3 +13,7 @@
 # 1.004
 * New wavier curly brackets
 * Square brackets extend slightly more horizontally
+
+# 1.005
+* Comma and semicolon are longer
+* Slight changes to capital A, C, G, and N to be more similar to Lexend
