@@ -17,3 +17,6 @@
 # 1.005
 * Comma and semicolon are longer
 * Slight changes to capital A, C, G, and N to be more similar to Lexend
+
+# 1.006
+* Capital C, D, N, and Q take up less space horizontally
