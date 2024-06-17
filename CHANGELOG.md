@@ -12,14 +12,14 @@
 
 # 1.004
 * New wavier curly brackets
-* Square brackets extend slightly more horizontally
+* Square brackets are slightly wider
 
 # 1.005
 * Comma and semicolon are longer
 * Slight changes to capital A, C, G, and N to be more similar to Lexend
 
 # 1.006
-* Capital C, D, N, and Q take up less space horizontally
+* Capital C, D, N, and Q are slightly more narrow
 
 # 1.007
 * Dot on semicolon is slightly larger  
