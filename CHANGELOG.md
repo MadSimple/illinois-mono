@@ -20,3 +20,6 @@
 
 # 1.006
 * Capital C, D, N, and Q take up less space horizontally
+
+# 1.007
+* Dot on semicolon is slightly larger  
