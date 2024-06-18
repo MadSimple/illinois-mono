@@ -23,3 +23,8 @@
 
 # 1.007
 * Dot on semicolon is slightly larger  
+
+# 1.008
+* Comma and semicolon curve more
+* Number '1' extends slightly more to the left
+* Minor touch-ups on bold version
