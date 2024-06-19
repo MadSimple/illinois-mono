@@ -32,3 +32,7 @@
 
 # 1.009
 * Fixed errors on semicolons and medium version '1'
+
+# 1.010
+* New tilde '~' is more wavy
+* Fixed slash and backslash being slightly different lengths
