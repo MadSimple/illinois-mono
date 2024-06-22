@@ -36,3 +36,6 @@
 # 1.010
 * New tilde '~' is more wavy
 * Fixed slash and backslash being slightly different lengths
+
+# 1.011
+* Minor touch-ups to lowercase 'm', number '5', and curly brackets
