@@ -39,3 +39,6 @@
 
 # 1.011
 * Minor touch-ups to lowercase 'm', number '5', and curly brackets
+
+# 1.012
+* Slight changes to lowercase 'm' and curly brackets
