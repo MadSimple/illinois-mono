@@ -42,3 +42,6 @@
 
 # 1.012
 * Slight changes to lowercase 'm' and curly brackets
+
+# 1.013
+* Fixed number '0' being slightly too thin
