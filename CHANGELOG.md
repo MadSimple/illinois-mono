@@ -45,3 +45,6 @@
 
 # 1.013
 * Fixed number '0' being slightly too thin
+
+# 1.014
+* Number '1' is slightly thinner
