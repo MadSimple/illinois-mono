@@ -48,3 +48,6 @@
 
 # 1.014
 * Number '1' is slightly thinner
+
+# 1.015
+* Slight adjustments to number '0'
