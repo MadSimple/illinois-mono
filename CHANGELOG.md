@@ -51,3 +51,6 @@
 
 # 1.015
 * Slight adjustments to number '0'
+
+# 1.016
+* Slight adjustment to curly brackets
