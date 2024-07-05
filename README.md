@@ -4,11 +4,11 @@ Early release of a monospace font based on [Lexend](https://lexend.com), a font 
 ([Here](https://www.youtube.com/watch?v=GIm8arSogvY) is a video explaining how Lexend increases reading speed)
 
 
-![image](https://github.com/MadSimple/illinois-mono/assets/92187165/c1d70718-e216-40e8-8520-a87a0e2c37b1)
+![image](https://github.com/MadSimple/illinois-mono/assets/92187165/feb519e4-813c-4f69-9513-f9ce815589f3)
 
-*(Medium version shown)*
+*(Regular version above, Medium version below)*
 
-![image](https://github.com/MadSimple/illinois-mono/assets/92187165/3793e6e0-1997-4dd7-9d13-c5e395fd4412)
+![image](https://github.com/MadSimple/illinois-mono/assets/92187165/6aba90f1-a386-47b7-9fb5-9a852b8c8950)
 
 Glyphs for Latin characters and common symbols are based on Lexend.
 Other characters currently use [DM Mono](https://fonts.google.com/specimen/DM+Mono) as a fallback.
